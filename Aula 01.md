@@ -110,8 +110,7 @@ Os alunos devem analisar os processos de negócio de uma empresa fictícia, "Tec
 
 1. Identificar os principais processos de negócio da empresa.
 2. Classificar os processos em governança, gerenciamento e operacionais.
-3. Sugerir melhorias para os processos identificados.
-4. Elaborar um diagrama simples mostrando a interação entre os processos.
+
 
 **Entrega:**
 Os alunos devem entregar um relatório com as respostas e o diagrama até a próxima aula.
