@@ -67,6 +67,40 @@
 - **Racionalidade Local**: Limitações práticas da racionalidade humana e como estas influenciam os processos.
 - **Tensão entre Processos e Departamentos**: Identificar e sanar tensões entre processos e departamentos.
 
+### 1.5 BPM (Business Process Management)
+
+#### Definição
+- **BPM (Business Process Management)**: É uma abordagem sistemática para tornar os fluxos de trabalho de uma organização mais eficazes, eficientes e adaptáveis a um ambiente em constante mudança. O BPM visa alinhar processos de negócios com as necessidades dos clientes e ajuda os executivos a determinar como direcionar, monitorar e medir os recursos da organização.
+
+#### Componentes do BPM
+1. **Modelagem**: Criação de representações visuais dos processos de negócio. Ferramentas comuns incluem BPMN (Business Process Model and Notation).
+2. **Automação**: Implementação de tecnologia para executar processos de maneira automatizada, reduzindo a necessidade de intervenção manual.
+3. **Execução**: Colocar os processos em prática, assegurando que todos os passos definidos sejam seguidos.
+4. **Monitoramento**: Acompanhamento e análise do desempenho dos processos em tempo real.
+5. **Otimização**: Melhoria contínua dos processos com base nos dados coletados durante o monitoramento.
+
+#### Exemplos de BPM
+1. **Gerenciamento de Atendimento ao Cliente**
+   - **Descrição**: Automatizar e gerenciar as interações com os clientes, desde o primeiro contato até a resolução de problemas.
+   - **Ferramentas Usadas**: CRM (Customer Relationship Management), sistemas de ticketing.
+   - **Benefícios**: Melhoria na satisfação do cliente, redução no tempo de resposta, maior eficiência no atendimento.
+
+2. **Processo de Aprovação de Faturas**
+   - **Descrição**: Automação do fluxo de trabalho de aprovação de faturas desde a recepção até o pagamento.
+   - **Ferramentas Usadas**: ERP (Enterprise Resource Planning), sistemas de automação de processos.
+   - **Benefícios**: Redução de erros, aceleração do ciclo de pagamento, maior transparência.
+
+3. **Processo de Desenvolvimento de Produto**
+   - **Descrição**: Gerenciar todas as etapas do desenvolvimento de um novo produto, desde a concepção até o lançamento no mercado.
+   - **Ferramentas Usadas**: PDM (Product Data Management), sistemas de colaboração.
+   - **Benefícios**: Redução do tempo de desenvolvimento, melhor coordenação entre equipes, aumento da qualidade do produto final.
+
+#### Benefícios do BPM
+- **Aumento da Eficiência**: Reduz a redundância e elimina gargalos, tornando os processos mais rápidos e eficientes.
+- **Melhoria da Qualidade**: Padroniza processos, garantindo que sejam seguidos corretamente e resultando em produtos ou serviços de maior qualidade.
+- **Maior Transparência**: Facilita o acompanhamento e a auditoria dos processos.
+- **Flexibilidade**: Permite rápida adaptação a mudanças no ambiente de negócios.
+
 ## Exercício
 
 ### Estudo de Caso: Análise de Processos de Negócio em uma Empresa Fictícia
