@@ -11,13 +11,19 @@
 ### 1.1 Conceito de Processos de Negócio
 
 #### Definição
-- **Processo de Negócio**: Um conjunto de atividades ou tarefas inter-relacionadas e estruturadas que produzem um serviço ou produto específico para um cliente ou mercado específico.
-- **BPM (Business Process Management)**: Envolve a descoberta, projeto e entrega de processos de negócios. Inclui o controle executivo, administrativo e supervisório destes processos.
+- **Processo de Negócio**: Um conjunto de atividades ou tarefas inter-relacionadas e estruturadas que produzem um serviço ou produto específico para um cliente ou mercado específico. São executados dentro de uma companhia ou organização para alcançar objetivos estratégicos e operacionais.
 
 #### Características dos Processos de Negócio
-- Transformam entradas (recursos) em saídas (produtos ou serviços).
-- Incluem subprocessos e tarefas que agregam valor ao produto final.
-- São executados dentro de uma companhia ou organização para alcançar objetivos específicos.
+- **Transformação de Entradas em Saídas**: Processos de negócio transformam entradas (recursos como materiais, informações, etc.) em saídas (produtos, serviços ou resultados).
+- **Subprocessos e Tarefas**: Incluem subprocessos e tarefas que agregam valor ao produto final.
+- **Orientação ao Cliente**: Focados em atender às necessidades e expectativas dos clientes internos ou externos.
+- **Interfuncionais**: Podem atravessar diferentes departamentos e funções dentro de uma organização.
+- **Ciclo de Vida**: Inclui planejamento, execução, monitoramento e otimização contínua.
+
+#### Tipos de Processos de Negócio
+1. **Processos Primários**: Envolvem diretamente a criação de valor para o cliente final. Exemplo: Produção e vendas.
+2. **Processos de Suporte**: Fornecem suporte aos processos primários. Exemplo: Recursos Humanos e Tecnologia da Informação.
+3. **Processos de Gerenciamento**: Envolvem a gestão e monitoramento dos processos de negócio. Exemplo: Planejamento estratégico e controle de qualidade.
 
 ### 1.2 Importância dos Processos de Negócio para as Organizações
 
@@ -31,10 +37,24 @@
 
 ### 1.3 Exemplos Característicos de Processos de Negócio
 
-#### Categorias de Processos
-- **Processos de Governança**: Envolvem gerenciamento de conformidades, gerenciamento de riscos, Business Intelligence, entre outros.
-- **Processos de Gerenciamento**: Atividades diárias e comuns de gerenciamento da organização, como gerenciamento financeiro e de recursos humanos.
-- **Processos Operacionais**: Destinados ao desenvolvimento da atividade-fim da empresa, como CRM, logística, desenvolvimento de produto.
+#### Exemplos de Processos de Negócio
+1. **Processo de Venda**
+   - **Descrição**: Inclui todas as atividades desde o contato inicial com o cliente até o fechamento da venda e o pós-venda.
+   - **Entradas**: Informações do cliente, catálogos de produtos, cotações.
+   - **Saídas**: Pedido realizado, produto entregue, feedback do cliente.
+   - **Subprocessos**: Prospeção de clientes, negociação, processamento de pedidos, atendimento pós-venda.
+
+2. **Processo de Produção**
+   - **Descrição**: Envolve a transformação de matérias-primas em produtos acabados.
+   - **Entradas**: Matérias-primas, mão-de-obra, equipamentos.
+   - **Saídas**: Produtos acabados, resíduos.
+   - **Subprocessos**: Planejamento de produção, fabricação, controle de qualidade.
+
+3. **Processo de Recursos Humanos**
+   - **Descrição**: Gerencia a contratação, treinamento, desenvolvimento e retenção de funcionários.
+   - **Entradas**: Candidatos a emprego, necessidades de treinamento.
+   - **Saídas**: Funcionários contratados, treinados e avaliados.
+   - **Subprocessos**: Recrutamento, seleção, treinamento, avaliação de desempenho.
 
 ### 1.4 Aplicação da Visão de Processos nas Atividades Organizacionais
 
