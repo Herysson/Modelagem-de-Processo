@@ -1,4 +1,5 @@
-### README.md
+
+![Modelagem de Processo](https://github.com/user-attachments/assets/8a982e3c-d9ba-4c5a-8412-84ec57968690)
 
 # Disciplina: Modelagem de Processos de Negócio
 
