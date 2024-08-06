@@ -88,12 +88,11 @@ Os modelos de organização de negócios descrevem a maneira como as empresas es
 Os alunos devem analisar uma empresa fictícia, "GlobalTech", que está passando por uma reestruturação organizacional. A empresa precisa escolher um novo modelo de organização para melhorar sua eficiência e capacidade de resposta ao mercado.
 
 **Tarefas:**
-1. Identificar os principais desafios enfrentados pela GlobalTech.
-2. Comparar os diferentes modelos de organização (funcional, divisional, matricial, em rede, orientada por processos) e suas adequações aos desafios da empresa.
-3. Sugerir o modelo de organização mais adequado para a GlobalTech e justificar a escolha.
+1. Para cada tipo de organização citado, encontre uma empresa que se encaixe em cada modelo e explique por que ela se encaixa nesse modelo.
+2. Qual modelo de organização você considera mais adequado para a área de desenvolvimento de sistemas? Justifique sua resposta.
 
 **Entrega:**
-Os alunos devem entregar um relatório com a análise e a sugestão do modelo de organização até a próxima aula.
+Os alunos devem entregar as tarefas até a próxima aula.
 
 ## Referências
 
