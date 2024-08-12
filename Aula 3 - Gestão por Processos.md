@@ -167,6 +167,39 @@ texto de apresentação, sumário, introdução, definição de elementos BPMN, 
 anexos e apêndices. Recomenda-se que o manual seja revisado pelo Departamento de Comunicação para ajustes na diagramação e texto. 
 Os manuais devem ser atualizados periodicamente para garantir que continuem refletindo a realidade da unidade.
 
+
+# Ciclo de Gerenciamento de Processos
+
+Tendo-se como base o ciclo PDCA (Plan, Do, Check e Action, respectivamente, Planejar,
+Fazer, Checar e Agir), utilizado para o controle e a melhoria contínua, os processos de traba-
+lho devem ser gerenciados na perspectiva de um ciclo para manter sua integridade e per-
+mitir o seu aperfeiçoamento continuamente, assegurando o alinhamento com a estratégia
+institucional.
+Após implantado, o ciclo começa a se repetir e será necessário monitorar se o processo
+está sob controle com os padrões sendo seguidos e por fim, se houver algum desvio (resultado
+fora dos padrões estabelecidos), aplicar ações corretivas e “rodar” novamente o processo.
+As etapas do ciclo de gerenciamento de processos do IFS estão dispostas em:
+planejamento, mapeamento AS IS, validação, mapeamento TO BE, implementação e
+acompanhamento:
+
+![image](https://github.com/user-attachments/assets/6c650e7d-ee97-43b4-9301-929f30f4bb52)
+
+A metodologia adotada pode ser melhor detalhada no fluxograma a seguir.
+
+![image](https://github.com/user-attachments/assets/238ca1f8-6fdc-4c25-994c-0b85cec30a0c)
+
+O quadro a seguir explica as etapas do ciclo de gerenciamento de processos:
+
+| **Etapa**            | **Descrição**                                                                                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Planejamento**     | Identifica os processos e macroprocessos de trabalho relacionado aos setores analisados. Além disso, são identificados os papéis e responsabilidades organizacionais associados ao gerenciamento de processos. |
+| **Mapeamento (AS IS)** | Cria uma representação de maneira completa e precisa sobre o funcionamento do processo.                                                                           |
+| **Validação**        | Esta etapa tem por objetivo analisar e aprovar o processo mapeado junto aos especialistas do processo.                                                             |
+| **Mapeamento (TO BE)** | Após a fase de validação, são verificados possíveis ajustes no processo, seguido da sua publicação no hotsite.                                                    |
+| **Implementação**    | Visa pôr em prática o processo mapeado e validado.                                                                                                                 |
+| **Acompanhamento**   | Etapa que visa realizar o acompanhamento da execução do processo, bem como verificar possíveis melhorias.                                                          |
+
+
 ## Referências
 
 - INSTITUTO FEDERAL DE SERGIPE. Manual de Gestão por Processos. Aracaju: IFS, 2018. Disponível em: http://www.ifs.edu.br/prodin. Acesso em: 02/08/2024.
