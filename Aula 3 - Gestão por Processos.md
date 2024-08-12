@@ -2,7 +2,7 @@
 
 A eficiência, conforme definido no artigo 37 da Constituição Federal de 1988, é um dos princípios fundamentais da administração pública, medindo a relação entre insumos 
 (input) e produtos (output). Um administrador eficiente é aquele que gerencia bem os recursos públicos, atingindo altos níveis de resultados e desempenho. Para padronizar a 
-Gestão por Processos no Instituto Federal de Sergipe (IFS), é necessário adotar procedimentos específicos em todas as fases do ciclo de gerenciamento, utilizando a notação
+Gestão por Processos, é necessário adotar procedimentos específicos em todas as fases do ciclo de gerenciamento, utilizando a notação
 BPMN, o software Bizagi Modeler, e metodologias de qualidade como a matriz GUT, Design Thinking, Brainstorming e o Diagrama de causa e efeito. O modelo de gestão é fundamentado 
 no Guia para Gerenciamento de Processos de Negócios (CBOK), sendo o Plano de Desenvolvimento Institucional (PDI) e o Regimento Interno do IFS as principais fontes de referência 
 e aperfeiçoamento. Definições básicas são fornecidas para facilitar o entendimento e a aplicação da Gestão por Processos.
