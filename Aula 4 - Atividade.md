@@ -27,14 +27,14 @@ Os alunos devem escolher uma das ferramentas listadas abaixo para realizar o sem
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0" width="200" />
-  <img src="image2.png" width="200" />
-  <img src="image3.png" width="200" />
+  <img src="https://camunda.com/wp-content/uploads/2020/05/logo-camunda-black.svg" width="200" />
+  <img src="https://www.signavio.com/img/logo-blue.png" width="200" />
 </p>
 
 <p align="center">
-  <img src="image4.png" width="200" />
-  <img src="image5.png" width="200" />
-  <img src="image6.png" width="200" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5fEk_tTYILbNkw52Yabk0inctmAB-xAw-g&s" width="200" />
+  <img src="https://miro.medium.com/v2/resize:fit:267/1*CalM6rOuHxReY6W-rE01lw.png" width="200" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQydbNZwMo9qBHQdBzd0jQvV2MSj9UT0IuYmA&s" width="200" />
 </p>
 
 ### Ferramentas Sugeridas:
