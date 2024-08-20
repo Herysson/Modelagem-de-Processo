@@ -1,4 +1,4 @@
-### Seminário: Ferramentas de Modelagem BPMN
+# Seminário: Ferramentas de Modelagem BPMN
 
 ## Objetivo
 O objetivo deste seminário é proporcionar aos alunos a oportunidade de explorar diferentes ferramentas de modelagem de processos utilizando a notação BPMN (Business Process Model and Notation). Os alunos deverão apresentar as principais funcionalidades da ferramenta escolhida, a simbologia BPMN que a ferramenta disponibiliza, e um exemplo prático de um processo mapeado utilizando a ferramenta.
@@ -60,10 +60,6 @@ Os alunos devem escolher uma das ferramentas listadas abaixo para realizar o sem
 - **Engajamento com o Público**: A apresentação deve ser envolvente e permitir a participação e questionamentos dos colegas.
 
 ## Entrega e Apresentação
-- **Data de Entrega**: Os materiais do seminário (slides, arquivos do processo mapeado, etc.) devem ser enviados até [data a ser definida].
-- **Data do Seminário**: As apresentações ocorrerão em sala de aula no dia [data a ser definida].
-- **Duração**: Cada grupo terá 20 minutos para a apresentação, seguidos de 10 minutos para perguntas e discussão.
-
----
-
-Este seminário visa proporcionar uma compreensão prática das ferramentas de modelagem BPMN e sua aplicação em ambientes reais. Boa sorte e bom trabalho!
+- **Data de Entrega**: Os materiais do seminário (slides, arquivos do processo mapeado, etc.) devem ser enviados até 02/09.
+- **Data do Seminário**: As apresentações ocorrerão em sala de aula no dia 02/09.
+- **Duração**: Cada grupo terá 20 minutos para a apresentação, seguidos de 5 minutos para perguntas e discussão.
