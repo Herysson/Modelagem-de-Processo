@@ -165,6 +165,45 @@ Permitem ou fornecem informações adicionais sobre um processo.
 
 ---
 
+### Exercício 1: Mapeamento de Processo de Aprovação de Crédito
+
+**Descrição:**  
+Crie um diagrama BPMN para um processo de aprovação de crédito em uma instituição financeira. O processo deve começar com o recebimento de uma solicitação de crédito e terminar com a aprovação ou rejeição do pedido. Utilize eventos, tarefas, gateways e fluxos de sequência conforme necessário.
+
+**Passos a serem mapeados:**
+1. Recebimento da solicitação de crédito.
+2. Análise preliminar da solicitação .
+3. Decisão se mais informações são necessárias .
+   - Se sim, solicitar mais informações e receber as mesmas .
+   - Se não, prosseguir para análise de crédito .
+4. Avaliação final.
+   - Se aprovado, emitir crédito.
+   - Se rejeitado, notificar rejeição.
+5. Conclusão do processo.
+
+
+### Exercício 2: Diagrama de Solicitação de Férias
+
+**Descrição:**  
+Desenvolva um diagrama BPMN que modele o processo de solicitação de férias de um funcionário em uma empresa. O processo deve incluir a solicitação das férias, a aprovação pelo supervisor e a notificação ao funcionário.
+
+**Passos a serem mapeados:**
+1. Início do pedido de férias pelo funcionário (Evento de Início).
+2. Envio do pedido para o supervisor (Tarefa).
+3. Avaliação do pedido pelo supervisor (Gateway Exclusivo).
+   - Se aprovado, confirmar as férias (Tarefa).
+   - Se rejeitado, solicitar alteração da data (Tarefa).
+4. Notificação ao funcionário sobre o resultado (Tarefa).
+5. Fim do processo (Evento de Término).
+
+### Exercício 3: Diagrama de Reserva de Vaga no Programa de Pós-graduação
+
+O processo de reserva de vaga no programa de pós-graduação da UFN começa quando o candidato recebe instruções detalhadas sobre como preencher sua aplicação. Este procedimento envolve várias fases, iniciando com a inserção de informações pessoais em um formulário específico. Uma vez preenchidas as informações pessoais, o candidato se depara com uma decisão importante: se deve ou não fornecer detalhes sobre sua formação em ensino médio. Dependendo da escolha, o candidato ou adiciona esses dados ou prossegue diretamente para o próximo passo, que é fornecer informações de contato necessárias para futuras comunicações.
+
+Após essas etapas, o candidato deve registrar e anexar todos os documentos que são exigidos para a análise de sua candidatura. O processo avança para a conclusão quando todos os documentos necessários são anexados. O candidato finaliza a submissão da aplicação e, se necessário, anexa arquivos adicionais. O objetivo desse processo é assegurar que todos os dados e documentos requeridos sejam coletados de forma organizada e sistemática para facilitar a avaliação da candidatura pelo programa de pós-graduação.
+
+---
+
 ### Referências
 
 1. Bizagi. (n.d.). *Modeler Video List*. Recuperado de [https://www.bizagi.com/pt/home/modeler-video-list.html](https://www.bizagi.com/pt/home/modeler-video-list.html)
