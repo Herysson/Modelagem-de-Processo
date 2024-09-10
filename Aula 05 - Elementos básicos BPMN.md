@@ -203,9 +203,6 @@ O processo de reserva de vaga no programa de pós-graduação da UFN começa qua
 Após essas etapas, o candidato deve registrar e anexar todos os documentos que são exigidos para a análise de sua candidatura. O processo avança para a conclusão quando todos os documentos necessários são anexados. O candidato finaliza a submissão da aplicação e, se necessário, anexa arquivos adicionais. O objetivo desse processo é assegurar que todos os dados e documentos requeridos sejam coletados de forma organizada e sistemática para facilitar a avaliação da candidatura pelo programa de pós-graduação.
 
 
-R:
-
-![image](https://github.com/user-attachments/assets/4b248b50-4388-48d0-b17d-ca883d072c3d)
 
 ---
 
