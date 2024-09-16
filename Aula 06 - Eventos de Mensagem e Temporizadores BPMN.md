@@ -1,6 +1,6 @@
-# Aula sobre Elementos de Eventos de Mensagem e Timer em BPMN
+Eventos de Mensagem e Temporização em BPMN
 
-Nesta aula, vamos explorar os elementos de eventos relacionados a mensagens e timers na notação BPMN (Business Process Model and Notation). Esses eventos são cruciais para representar as interações baseadas em tempo e comunicação em processos de negócios.
+Os elementos de eventos relacionados a mensagens e timers na notação BPMN (Business Process Model and Notation). Esses eventos são cruciais para representar as interações baseadas em tempo e comunicação em processos de negócios.
 
 ## Eventos de Mensagem (Message Events)
 
@@ -25,7 +25,7 @@ Nesta aula, vamos explorar os elementos de eventos relacionados a mensagens e ti
     
 ![image](https://github.com/user-attachments/assets/0b3dc6a7-0869-4323-9dc9-b46d24140cf8) **Received**: No mesmo processo, um evento de mensagem intermediário de recebimento pode modelar a chegada da confirmação do fornecedor, que então leva à próxima etapa do processo.
 
-###* *Message End Event**
+### **Message End Event**
 
 ![image](https://github.com/user-attachments/assets/cef6a9fb-75e7-4f1a-8242-82361c32e2a1)
 
