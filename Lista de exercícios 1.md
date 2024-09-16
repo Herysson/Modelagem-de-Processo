@@ -30,5 +30,5 @@
 11. **Elabore um diagrama BPMN para um sistema de aprovação de licença médica em uma empresa, destacando a interação entre o empregado, o departamento de recursos humanos e o médico.**
     - Use eventos de início e de término, gateways para aprovação do RH e do médico, e eventos intermediários para possível revisão de pedido.
 
-12. Descrição: Crie um diagrama BPMN para o processo de reserva online em um hotel. Desde a pesquisa de disponibilidade, passando pela reserva e pagamento, até a confirmação enviada ao cliente.
+12. **Descrição: Crie um diagrama BPMN para o processo de reserva online em um hotel. Desde a pesquisa de disponibilidade, passando pela reserva e pagamento, até a confirmação enviada ao cliente.**
     -Aplicar eventos de mensagem para a interação entre o sistema do hotel e o cliente, melhorando a fluidez da comunicação no processo.
