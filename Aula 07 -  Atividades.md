@@ -115,6 +115,49 @@ Um sub-processo que pode ser invocado em diferentes processos. Ele é definido u
 
 ![image](https://github.com/user-attachments/assets/32a5ee4b-76ca-4b23-b9be-e303e1cea9fe)
 
+## Exercícios
+
+Aqui estão cinco exercícios envolvendo a utilização dos elementos BPMN que foram apresentados, ideais para ajudar os alunos a aplicar e entender melhor esses conceitos em cenários práticos:
+
+### Exercício 1: Mapeamento de Processo de Compra
+**Descrição**: Desenhe um diagrama BPMN para um processo de compra simples em uma empresa. O processo deve começar com uma "Tarefa de Usuário" para a solicitação de compra, seguida por uma "Tarefa de Serviço" para a verificação automática de fundos, uma "Tarefa de Envio" para enviar o pedido ao fornecedor, e uma "Tarefa de Recebimento" para confirmar o recebimento do pedido.
+
+**Objetivos**:
+- Identificar e utilizar diferentes tipos de tarefas.
+- Entender o fluxo de mensagens entre atividades.
+
+### Exercício 2: Processo de Onboarding de Funcionários
+**Descrição**: Modele um processo de onboarding para novos funcionários utilizando BPMN. O processo deve incluir uma "Tarefa de Usuário" para o preenchimento de documentos pelo novo funcionário, uma "Tarefa Manual" para a revisão física desses documentos por um RH, e um "Sub-processo Incorporado" que agrupa as atividades de treinamento.
+
+**OBS**: Onboarding é o processo de integrar novos funcionários em uma organização e ajudá-los a se adaptar aos aspectos sociais e de desempenho de seus novos empregos de forma rápida e suave. Ele vai além da simples orientação e inclui todo o processo durante o qual o novo colaborador aprende as competências necessárias para se tornar um membro efetivo da equipe.
+
+**Objetivos**:
+- Aplicar tarefas manuais e de usuário em um contexto prático.
+- Utilizar sub-processos para organizar o diagrama.
+
+### Exercício 3: Automação de Relatório de Vendas
+**Descrição**: Crie um diagrama BPMN para o processo de geração e distribuição de um relatório de vendas mensal. O processo deve iniciar com uma "Tarefa de Script" para coletar dados de vendas, seguida por uma "Tarefa de Serviço" para gerar o relatório, e uma "Tarefa de Envio" para distribuir o relatório por e-mail aos stakeholders.
+
+**Objetivos**:
+- Utilizar tarefas de script para processamento de dados.
+- Demonstrar o uso de tarefas de serviço e de envio em processos automatizados.
+
+### Exercício 4: Agendamento de Consultas Médicas
+**Descrição**: Desenvolva um diagrama BPMN para o processo de agendamento de consultas em um hospital. Este processo deve incluir uma "Tarefa de Usuário" para que os pacientes possam solicitar uma consulta, uma "Tarefa de Referência" para verificar a disponibilidade do médico, e um "Sub-processo Reutilizável" para o processo de confirmação da consulta.
+
+**Objetivos**:
+- Incorporar tarefas de referência para reutilização de processos.
+- Desenvolver a habilidade de modelar sub-processos reutilizáveis.
+
+### Exercício 5: Revisão de Código em Desenvolvimento de Software
+**Descrição**: Elabore um diagrama BPMN que modele o processo de revisão de código em um projeto de software. O processo deve começar com uma "Tarefa de Usuário" para submissão de código, seguido por um "Sub-processo Incorporado" para revisão de código que inclui tarefas de usuário e tarefas de script para análises automatizadas, e termina com uma "Tarefa de Usuário" para aprovação ou rejeição do código revisado.
+
+**Objetivos**:
+- Aplicar sub-processos incorporados em um fluxo de trabalho complexo.
+- Integrar diferentes tipos de tarefas para simular um ambiente de trabalho real.
+
+Esses exercícios são projetados para cobrir uma variedade de cenários e tipos de tarefas, proporcionando uma experiência prática e abrangente na utilização do BPMN.
+
 ## Referências
 
 1. Bizagi. (n.d.). *Modeler Video List*. Recuperado de [https://www.bizagi.com/pt/home/modeler-video-list.html](https://www.bizagi.com/pt/home/modeler-video-list.html)
