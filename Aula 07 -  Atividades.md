@@ -107,4 +107,12 @@ Um sub-processo que pode ser invocado em diferentes processos. Ele é definido u
 1. **Onboarding de Funcionários**: Utilizado por diferentes departamentos para integrar novos funcionários.
 2. **Processo de Compras**: Comum tanto para o departamento de TI quanto para recursos humanos para realizar compras de equipamentos e serviços.
 
-Esses elementos proporcionam uma visão detalhada e estruturada de como modelar processos de negócios usando BPMN, facilitando a compreensão e a implementação em ambientes corporativos.
+
+### Exemplo
+
+![image](https://github.com/user-attachments/assets/cacf162a-f3a8-436d-9fa3-5df4b975ff05)
+
+
+![image](https://github.com/user-attachments/assets/32a5ee4b-76ca-4b23-b9be-e303e1cea9fe)
+
+
