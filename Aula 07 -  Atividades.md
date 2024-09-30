@@ -115,4 +115,10 @@ Um sub-processo que pode ser invocado em diferentes processos. Ele é definido u
 
 ![image](https://github.com/user-attachments/assets/32a5ee4b-76ca-4b23-b9be-e303e1cea9fe)
 
+## Referências
+
+1. Bizagi. (n.d.). *Modeler Video List*. Recuperado de [https://www.bizagi.com/pt/home/modeler-video-list.html](https://www.bizagi.com/pt/home/modeler-video-list.html)
+2. Bizagi. (n.d.). *My First Model Tutorial*. Recuperado de [https://help.bizagi.com/platform/en/index.html?my_first_model.htm](https://help.bizagi.com/platform/en/index.html?my_first_model.htm)
+3. Bizagi. (n.d.). *BPMN Quick Reference Guide*. Recuperado de [https://resources.bizagi.com/docs/BPMN_Quick_Reference_Guide_ENG.pdf](https://resources.bizagi.com/docs/BPMN_Quick_Reference_Guide_ENG.pdf)
+
 
