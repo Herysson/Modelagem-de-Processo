@@ -13,3 +13,13 @@ Após a inspeção as caixas com as costuram esperam para serem movimentadas par
 montagem.
 
 Na linha de montagem ocorre a colocação dos bolsos e colarinhos nos panos costurados, formando propriamente o produto camisa, movimentados em lotes para o acabamento e embalagem, onde são passadas e embaladas em caixas individuais, seguindo para o depósito de produtos acabados.
+
+
+## Fluxograma de processo de produto
+![image](https://github.com/user-attachments/assets/d3b41c99-c4c7-4bae-a3f0-f9b4d8ec44fd)
+
+
+## Exemplo 
+![image](https://github.com/user-attachments/assets/b9383784-ea3e-483d-af9d-44cbd076174e)
+
+
