@@ -43,32 +43,6 @@ A disciplina de Modelagem de Processos de Negócio tem como objetivo principal f
   - Implementação de workflows em sistemas de software.
   - Exemplos práticos e casos de uso.
 
-## Estrutura do Repositório
-
-```
-├── Unidade1_Fundamentos/
-│   ├── Aula1.md
-│   ├── Exemplos/
-│   ├── Exercicios/
-│   └── Referencias.md
-├── Unidade2_Representacao/
-│   ├── Aula1.md
-│   ├── Exemplos/
-│   ├── Exercicios/
-│   └── Referencias.md
-├── Unidade3_Analise_Informatizacao/
-│   ├── Aula1.md
-│   ├── Exemplos/
-│   ├── Exercicios/
-│   └── Referencias.md
-├── Unidade4_Workflow/
-│   ├── Aula1.md
-│   ├── Exemplos/
-│   ├── Exercicios/
-│   └── Referencias.md
-└── README.md
-```
-
 ## Como Usar Este Repositório
 
 1. **Clone o repositório**: 
