@@ -101,6 +101,9 @@
 - **Maior Transparência**: Facilita o acompanhamento e a auditoria dos processos.
 - **Flexibilidade**: Permite rápida adaptação a mudanças no ambiente de negócios.
 
+## Exemplo em vídeo
+https://www.youtube.com/watch?v=8hw4SrG0Zuc
+
 ## Exercício
 
 ### Estudo de Caso: Análise de Processos de Negócio em uma Empresa Fictícia
