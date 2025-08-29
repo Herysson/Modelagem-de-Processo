@@ -60,6 +60,6 @@ Os alunos devem escolher uma das ferramentas listadas abaixo para realizar o sem
 - **Engajamento com o Público**: A apresentação deve ser envolvente e permitir a participação e questionamentos dos colegas.
 
 ## Entrega e Apresentação
-- **Data de Entrega**: Os materiais do seminário (slides, arquivos do processo mapeado, etc.) devem ser enviados até 02/09.
+- **Data de Entrega**: A definir em sala de aula.
 - **Data do Seminário**: As apresentações ocorrerão em sala de aula na data combinada.
 - **Duração**: Cada grupo terá 20 minutos para a apresentação, seguidos de 5 minutos para perguntas e discussão.
