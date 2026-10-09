@@ -73,6 +73,55 @@ Considere a "Tarefa 2" como uma atividade em que um funcionário deve completar 
 ### Importância
 Eventos anexados são essenciais para modelar exceções e ações paralelas que precisam ser consideradas sem necessariamente interromper o fluxo principal de atividades em um processo. Eles oferecem flexibilidade ao modelar processos que exigem resposta a eventos externos ou mensagens durante a execução de tarefas específicas, permitindo assim uma modelagem mais precisa e dinâmica do comportamento do processo.
 
+### Exercício 1 – Solicitação de Suporte Técnico
+
+Uma empresa possui um setor de suporte técnico responsável por atender solicitações de seus funcionários.
+
+O processo inicia quando o setor de suporte **recebe uma mensagem contendo uma solicitação de atendimento**. Após o recebimento, um técnico analisa a solicitação e verifica se existem informações suficientes para realizar o atendimento.
+
+Caso as informações estejam incompletas, o técnico envia uma mensagem ao funcionário solicitando os dados adicionais. O processo deve aguardar o recebimento dessas informações antes de continuar.
+
+Com as informações completas, o técnico realiza o atendimento e registra a solução encontrada. Ao final, uma mensagem informando a conclusão do atendimento é enviada ao funcionário, encerrando o processo.
+
+**Atividade:** Modele o processo utilizando BPMN, contemplando os eventos de mensagem de início, intermediários de envio e recebimento e de fim.
+
+---
+
+### Exercício 2 – Processo de Pagamento de Mensalidade
+
+Uma instituição de ensino possui um processo de controle de mensalidades.
+
+O processo é iniciado automaticamente **no primeiro dia de cada mês**, quando o sistema financeiro gera as cobranças dos alunos e envia os respectivos boletos por e-mail.
+
+Após o envio, o sistema aguarda cinco dias para verificar a situação dos pagamentos.
+
+Se o pagamento tiver sido realizado, o sistema registra a quitação e encerra o processo.
+
+Caso o pagamento ainda não tenha sido identificado, o sistema envia uma mensagem de lembrete ao aluno. Após o envio, aguarda mais três dias e realiza uma nova verificação.
+
+Se o pagamento for identificado nessa segunda verificação, a quitação é registrada. Caso contrário, o sistema registra a mensalidade como pendente e encerra o processo.
+
+**Atividade:** Modele o processo utilizando BPMN, contemplando o evento de início temporizado, os eventos intermediários de temporização, as mensagens enviadas e as decisões necessárias.
+
+---
+
+### Exercício 3 – Aprovação de Solicitação de Compra
+
+Uma empresa utiliza um sistema para gerenciar solicitações de compra realizadas pelos funcionários.
+
+O processo inicia quando o setor de compras recebe uma solicitação. Inicialmente, o funcionário responsável verifica as informações e encaminha o pedido ao gerente para aprovação.
+
+Durante a atividade de análise do gerente, podem ocorrer duas situações especiais:
+
+- **Cancelamento da solicitação:** o funcionário solicitante pode enviar uma mensagem solicitando o cancelamento da compra. Nesse caso, a análise deve ser interrompida imediatamente, a solicitação deve ser cancelada e o processo encerrado.
+- **Prazo de aprovação:** caso a análise não seja concluída em até dois dias, o sistema deve enviar automaticamente uma mensagem de lembrete ao gerente. Entretanto, a análise deve continuar normalmente, sem ser interrompida.
+
+Quando o gerente conclui a análise, o sistema verifica sua decisão.
+
+Se a solicitação for aprovada, o setor de compras realiza o pedido ao fornecedor e envia uma mensagem ao funcionário informando a aprovação. Caso seja rejeitada, o funcionário recebe uma mensagem comunicando a rejeição.
+
+O processo termina após a comunicação da decisão.
+
 ## Referências
 
 1. Bizagi. (n.d.). *Modeler Video List*. Recuperado de [https://www.bizagi.com/pt/home/modeler-video-list.html](https://www.bizagi.com/pt/home/modeler-video-list.html)
