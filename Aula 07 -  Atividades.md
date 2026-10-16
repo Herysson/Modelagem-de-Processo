@@ -156,7 +156,56 @@ Aqui estão cinco exercícios envolvendo a utilização dos elementos BPMN que f
 - Aplicar sub-processos incorporados em um fluxo de trabalho complexo.
 - Integrar diferentes tipos de tarefas para simular um ambiente de trabalho real.
 
-Esses exercícios são projetados para cobrir uma variedade de cenários e tipos de tarefas, proporcionando uma experiência prática e abrangente na utilização do BPMN.
+### Desafio 1: Geladeira Solidária: Resgate de Alimentos
+Uma universidade desenvolveu um projeto chamado Geladeira Solidária, cujo objetivo é reduzir o desperdício de alimentos. Por meio de uma plataforma digital, as cantinas podem disponibilizar refeições e lanches que não foram comercializados, mas que ainda estão próprios para consumo.
+Esses alimentos são encaminhados para organizações sociais parceiras, responsáveis por sua distribuição.
+O processo começa quando um funcionário da cantina acessa o sistema e cadastra os alimentos disponíveis para doação, informando a quantidade, o tipo de alimento e o horário limite para consumo.
+Após o cadastro, o sistema executa automaticamente um script que calcula o tempo restante para o vencimento dos alimentos e classifica a urgência da doação.
+Em seguida, um serviço automatizado consulta o cadastro de organizações parceiras e verifica se existe alguma organização habilitada para receber os alimentos naquela região.
+Caso nenhuma organização seja encontrada, o sistema registra a impossibilidade da doação e encerra o processo.
+Caso exista uma organização disponível, o sistema envia uma mensagem contendo as informações dos alimentos oferecidos e aguarda uma resposta da organização.
+A organização poderá aceitar ou recusar a doação.
+Se a oferta for recusada, o sistema registra a recusa e encerra a solicitação.
+Se for aceita, o funcionário da cantina deverá preparar a doação. Essa etapa compreende a separação dos alimentos, a conferência das embalagens e o acondicionamento dos produtos para transporte.
+Após a preparação, o funcionário acessa a plataforma e confirma que os alimentos estão prontos para retirada.
+O sistema gera automaticamente um código de identificação da doação e envia uma notificação à organização parceira, informando que os alimentos podem ser retirados.
+Quando o representante da organização chega à cantina, o funcionário realiza a entrega física dos alimentos e registra a retirada no sistema.
+O processo é encerrado quando a entrega é confirmada.
+
+**Atividade proposta**
+Elabore um diagrama BPMN que represente todo o processo de doação de alimentos descrito.
+Na modelagem, procure utilizar corretamente os diferentes tipos de tarefas estudados nesta aula, distinguindo as atividades humanas executadas com auxílio do sistema daquelas realizadas manualmente e das operações automatizadas.
+A etapa de preparação da doação deverá ser representada por um subprocesso incorporado (Embedded Sub-process), contendo as atividades de separação, conferência e acondicionamento dos alimentos.
+Utilize pools e lanes para representar os participantes do processo e os respectivos responsáveis.
+
+### Desafio 2: Produção de Protótipos em Impressoras 3D
+Uma universidade possui um laboratório de fabricação digital chamado Fábrica de Ideias, no qual estudantes e professores podem solicitar a produção de protótipos utilizando impressoras 3D.
+Para organizar a utilização dos equipamentos, o laboratório desenvolveu um sistema que gerencia solicitações, analisa arquivos digitais e acompanha o processo de fabricação.
+O processo começa quando um estudante acessa a plataforma, preenche uma solicitação e envia um arquivo digital contendo o modelo 3D que deseja fabricar.
+Após receber a solicitação, o sistema utiliza um serviço automatizado para verificar se o arquivo enviado possui um formato válido e se suas dimensões são compatíveis com as impressoras disponíveis.
+Caso o arquivo apresente problemas, o sistema informa ao estudante que a solicitação não pode ser processada, permitindo que ele envie uma nova versão do arquivo.
+Quando o arquivo está correto, o sistema executa um script para calcular a quantidade estimada de material necessário, o tempo de impressão e o custo aproximado da fabricação.
+Em seguida, o sistema envia ao estudante uma mensagem contendo o orçamento e aguarda sua confirmação.
+Se o orçamento for recusado, a solicitação é cancelada.
+Caso o estudante aprove o orçamento, o sistema registra a autorização para fabricação e encaminha a solicitação para a equipe do laboratório.
+Antes de iniciar a fabricação, um técnico deverá realizar o procedimento de Inspeção de Segurança dos Equipamentos. Esse procedimento é padronizado e também utilizado em outros processos do laboratório, como manutenção preventiva e treinamento de novos operadores.
+Após a inspeção, inicia-se a produção do protótipo, composta pelas seguintes atividades:
+- O técnico prepara manualmente a impressora, verificando o material e as condições da mesa de impressão.
+- O sistema envia automaticamente o arquivo de fabricação para a impressora 3D.
+- A impressora executa a fabricação da peça.
+- Após a impressão, o técnico remove manualmente a peça e realiza sua inspeção visual.
+- O técnico registra no sistema se o protótipo foi produzido corretamente.
+Se a peça apresentar defeitos, o técnico verifica se existe material e tempo disponíveis para realizar uma nova tentativa. Caso seja possível, a peça retorna à etapa de fabricação. Se não for possível, a solicitação é encerrada como não concluída, e o estudante é notificado.
+Se a peça estiver correta, o sistema registra a fabricação como concluída e envia uma notificação ao estudante informando que o protótipo está disponível para retirada.
+Quando o estudante comparece ao laboratório, o técnico entrega a peça e registra a retirada no sistema, encerrando o processo.
+
+**Atividade proposta**
+Elabore um diagrama BPMN para representar o processo de fabricação de protótipos da Fábrica de Ideias.
+O diagrama deverá empregar os tipos de tarefas apropriados para cada atividade, considerando operações humanas e automatizadas, trocas de mensagens, decisões e retornos no fluxo.
+Represente o procedimento Inspeção de Segurança dos Equipamentos como uma atividade de chamada (Call Activity), que permita reutilizar um processo previamente definido.
+Já a etapa de produção do protótipo deverá ser representada por um subprocesso incorporado (Embedded Sub-process), detalhando internamente as atividades de preparação da impressora, fabricação, remoção e inspeção da peça.
+Organize os participantes em pools e lanes e represente os diferentes resultados possíveis da solicitação.
+
 
 ## Referências
 
