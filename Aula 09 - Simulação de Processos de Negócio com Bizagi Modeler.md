@@ -260,31 +260,33 @@ Analisar como a disponibilidade de atendentes e técnicos modifica o desempenho 
 
 **Importante:** o fato de uma tarefa estar desenhada em determinada raia **não substitui** a atribuição dos recursos exigidos pela tarefa na simulação.
 
+
 ### Antes de olhar os resultados: existe capacidade suficiente?
 
 A taxa média de chegada configurada é:
 
-\[
+```math
 \lambda = \frac{60}{12} = 5\ \text{chamados por hora}
-\]
+```
 
 O atendente trabalha, em média, por chamado:
 
-\[
+```math
 3 + 4 + 0{,}40(5) + 2 = 11\ \text{minutos}
-\]
+```
 
 Assim, a demanda estimada de trabalho do atendente é:
 
-\[
+```math
 5(11) = 55\ \text{minutos de trabalho por hora}
-\]
+```
 
 O técnico só participa de 60% dos chamados, com 27 minutos de serviço em cada um:
 
-\[
+```math
 5(0{,}60)(12+15) = 81\ \text{minutos de trabalho técnico por hora}
-\]
+```
+
 
 **Interpretação:** durante o período de chegadas, a demanda média de **81 minutos de trabalho técnico por hora** excede os **60 minutos de capacidade por hora** de um único técnico. Isso sugere formação de fila no suporte. O atendente também tem carga elevada (55 minutos por hora), mas inferior à sua capacidade teórica.
 
